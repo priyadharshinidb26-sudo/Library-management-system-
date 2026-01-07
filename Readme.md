@@ -13,5 +13,4 @@ A simple Library Management System created using HTML, CSS, and JavaScript.
 - JavaScript
 - GitHub Pages
 
-## Live Project
-https://lk-uzumaki-001.github.io/My-project-LM/
+
